@@ -6,4 +6,10 @@ Notebooks will assume a basic understanding of programming concepts and familiar
 To setup environment
 1. Download Anaconda
 2. Run create_env.sh script located in the Environment Setup directory
- 
+<br>
+# Path 
+Will be updated when new notebooks are added
+
+1. Pandas
+2. Graphing
+3. Assignment  
