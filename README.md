@@ -11,4 +11,4 @@ Will be updated when new notebooks are added
 
 1. Pandas
 2. Graphing
-3. Assignment  
+3. Assignment 1
